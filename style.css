@@ -105,7 +105,6 @@ h1, h2, h3{
 }
 
 #back-magenta:hover{
-	box-shadow: 4px 7px 4px grey;
 	cursor: pointer;
 }	
 
@@ -115,7 +114,6 @@ h1, h2, h3{
 }
 
 #police-bleu:hover{
-	box-shadow: 4px 7px 4px grey;
 	cursor: pointer;
 }
 #police-header-green{
@@ -123,7 +121,6 @@ h1, h2, h3{
 	border-radius: 4px 4px 4px 4px;
 }
 #police-header-green:hover{
-	box-shadow: 4px 7px 4px grey;
 	cursor: pointer;
 }
 #changement-police{
@@ -131,6 +128,5 @@ h1, h2, h3{
 	border-radius: 4px 4px 4px 4px;
 }
 #changement-police:hover{
-	box-shadow: 4px 7px 4px grey;
 	cursor: pointer;
 }
